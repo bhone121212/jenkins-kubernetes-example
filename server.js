@@ -28,7 +28,7 @@ app.get('/', (req, res) => {
       </style>
     </head>
     <body>
-      <div class="welcome-text">Warmly Welcome MSTC!!!!</div>
+      <div class="welcome-text">Warmly Welcome MSTC</div>
     </body>
     </html>
   `);
